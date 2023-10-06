@@ -1,0 +1,50 @@
+h2{
+    color:blueviolet;
+}
+li{
+    color:blue
+}
+.color{
+    color: rgb(60, 0, 100);
+    text-decoration: underline;
+    text direction: font-weight: color: ;;
+}
+.header{
+    text size-adjust: 300%;
+    text-align: center;
+    text-size-adjust: 500px;
+    text-shadow: 0cap;
+    height:200px;
+    background-image: url('Box Model.png');
+    background-size:50%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.p1{
+   color: rgb(8, 0, 255);
+   margin: 10px;
+}
+.p2{
+    color: rgb(255, 0, 187);
+    margin: 10px;
+ }
+ .p3{
+    color: rgb(255, 0, 102);
+    margin: 10px;
+ }
+ .p4{
+    color: rgb(0, 255, 123);
+    margin: 10px;
+ }
+ .h1{
+    text-align: center;
+    color: rgb(19, 204, 62);
+    text-overflow: ellipsis;
+ }
+ .color{
+    
+    color: cyan;
+    size: 2000%;
+    text-size-adjust: 2000%;
+ }
